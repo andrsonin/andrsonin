@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @andrsonin
+- 👀 I’m interested in Automotive devices, smart home devices, motocicle electronics devices, high speed data transfer dev., microwave devices and etc. 
+- 🌱 I am currently working with CPLD.
+- 📫 How to reach me ... no way =)
