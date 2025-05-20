@@ -3,6 +3,8 @@
 - 👀 I’m interested in Automotive devices, smart home devices, motocicle electronics devices, high speed data transfer dev., microwave devices and etc. 
 - 🌱 I am currently working with CPLD.
 - 📫 How to reach me ... no way =)
+- My Telegram chanel 
+- [My Telegram chanel](https://t.me/mastering_Zynq_7series "Zynq 7 series self-education")
 
 ## My plans
 - [HTML] Create a business card website.
